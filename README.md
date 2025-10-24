@@ -8,9 +8,6 @@
   <img src="https://raw.githubusercontent.com/JacksonvBarbosa/ebook_data_analytic_ia/main/assets/imagem_capa_ebook.jpg"
        alt="Data Analytics cover"
        width="250">
-</p>
-" alt="Data Analytics cover" width="60">
-</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/jackson-dos-santos-ventura-716290b4/">
