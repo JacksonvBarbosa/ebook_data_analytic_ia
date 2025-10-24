@@ -1,6 +1,13 @@
 <p align="center">
-  <img src="assets/icon.svg" alt="Data Analytics Icon" width="60">
+  <img src="https://raw.githubusercontent.com/JacksonvBarbosa/ebook_data_analytic_ia/main/assets/icon.svg"
+       alt="Data Analytics Icon"
+       width="60">
 </p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/JacksonvBarbosa/ebook_data_analytic_ia/main/assets/imagem_capa_ebook.jpg"
+       alt="Data Analytics cover"
+       width="250">
 
 <p align="center">
   <a href="https://www.linkedin.com/in/jackson-dos-santos-ventura-716290b4/">
@@ -13,6 +20,7 @@
 ---
 
 <p align="center">
+  <img src="/assets/imagem_capa_ebook.jpg" alt="Data Analytics Icon" width="250">
   <img src="assets/imagem_capa_ebook.jpg" alt="Data Analytics cover" width="250">
 </p>
 
