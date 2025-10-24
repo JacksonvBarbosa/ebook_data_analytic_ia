@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/JacksonvBarbosa/ebook_data_analytic_ia/main/assets/icon.svg"
+  <img src="assets/eBook_ Análise de Dados_icon.png"
        alt="Data Analytics Icon"
        width="60">
 </p>
