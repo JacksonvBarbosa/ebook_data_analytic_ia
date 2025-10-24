@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/icon.svg" alt="Data Analytics Icon" width="60">
+  <img src="/assets/icon.svg" alt="Data Analytics Icon" width="60">
 </p>
 
 <p align="center">
@@ -13,7 +13,7 @@
 ---
 
 <p align="center">
-  <img src="assets/imagem_capa_ebook.jpg" alt="Data Analytics Icon" width="250">
+  <img src="/assets/imagem_capa_ebook.jpg" alt="Data Analytics Icon" width="250">
 </p>
 
 # Projeto EBOOK Gerado por I.A.s
